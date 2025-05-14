@@ -1,0 +1,111 @@
+@article{ahn2023hot,
+  title = {In Hot Water: Interactions of Temperature, Nitrogen Form and Availability and Photosynthetic and Nitrogen Uptake Responses in Natural Karenia brevis Populations},
+  author = {Ahn, So Hyun and Glibert, Patricia M. and Heil, Cynthia A.},
+  journal = {Harmful Algae},
+  volume = {129},
+  pages = {102519},
+  year = {2023},
+  publisher = {Elsevier}
+}
+
+@article{doig_martin_1974,
+  title = {The Effect of Naturally Occurring Organic Substances on the Growth of a Red Tide Organism},
+  volume = {8},
+  doi = {10.1016/0043-1354(74)90118-3},
+  number = {9},
+  journal = {Water Research},
+  author = {Doig, Marion T. and Martin, Dean F.},
+  year = {1974},
+  month = {Sep},
+  pages = {601--606}
+}
+
+@article{florida2021quantifying,
+  title = {Quantifying the Socio-Economic Impacts of Harmful Algal Blooms},
+  author = {Florida, Southwest and Qiao, Xiaohui and Saha, Bijeta},
+  year = {2021},
+  journal = {Unpublished}
+}
+
+@article{mapping,
+  title = {Mapping and Forecasting Onsets of Harmful Algal Blooms Using MODIS Data Over Coastal Waters Surrounding Charlotte County, Florida},
+  volume = {10},
+  doi = {10.3390/rs10101656},
+  number = {10},
+  journal = {Remote Sensing},
+  author = {Karki, Sita and Sultan, Mohamed and Elkadiri, Racha and Elbayoumi, Tamer},
+  year = {2018},
+  month = {Oct},
+  pages = {1656}
+}
+
+@article{kirkpatrick2004,
+  title = {Literature Review of Florida Red Tide: Implications for Human Health Effects},
+  volume = {3},
+  url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2856946/},
+  doi = {10.1016/j.hal.2003.08.005},
+  number = {2},
+  journal = {Harmful Algae},
+  author = {Kirkpatrick, Barbara and Fleming, Lora E. and Squicciarini, Dominick and Backer, Lorrie C. and Clark, Richard and Abraham, William and Benson, Janet and Cheng, Yung Sung and Johnson, David and Pierce, Richard and Zaias, Julia and Bossart, Gregory D. and Baden, Daniel G.},
+  year = {2004},
+  month = {Apr},
+  pages = {99--115}
+}
+
+@article{lucas_larkin_adams_2019,
+  title = {Willingness-to-Pay for Red Tide Prevention, Mitigation, and Control Strategies: A Case Study of Florida Coastal Residents},
+  url = {https://ageconsearch.umn.edu/record/56498/?v=pdf},
+  doi = {10.22004/ag.econ.56498},
+  journal = {AgEcon Search},
+  author = {Lucas, Kristen M. and Larkin, Sherry L. and Adams, Charles M.},
+  year = {2019}
+}
+
+@article{magana_villareal_2006,
+  title = {The Effect of Environmental Factors on the Growth Rate of Karenia brevis (Davis) G. Hansen and Moestrup},
+  volume = {5},
+  doi = {10.1016/j.hal.2005.07.003},
+  number = {2},
+  journal = {Harmful Algae},
+  author = {Magana, Hugo A. and Villareal, Tracy A.},
+  year = {2006},
+  month = {Mar},
+  pages = {192--198}
+}
+
+@article{weisberg_liu_lembke_hu_hubbard_garrett_2019a,
+  title = {The Coastal Ocean Circulation Influence on the 2018 West Florida Shelf K. brevis Red Tide Bloom},
+  volume = {124},
+  doi = {10.1029/2018JC014887},
+  number = {4},
+  journal = {Journal of Geophysical Research: Oceans},
+  author = {Weisberg, Robert H. and Liu, Yonggang and Lembke, Chad and Hu, Chuanmin and Hubbard, Katherine and Garrett, Mathew},
+  year = {2019},
+  month = {Mar}
+}
+
+@book{southwest_florida,
+  title = {Southwest Florida Nitrogen Levels Contributing to Red Tide Events: Coastal \& Heartland National Estuary Partnership},
+  url = {https://chnep.wateratlas.usf.edu/upload/documents/Fact-Sheet-CHNEP-SWFL-Nitrogen-Levels-and-Red-Tide-Events.pdf},
+  author = {Tomasko, David and Landau, Lenny and Suau, Stephen and Medina, Miles and Hecker, Jennifer},
+  year = {2021}
+}
+
+@misc{NOAA_2014,
+  title = {Physical and Biological Data Collected Along the Texas, Mississippi, Alabama, and Florida Coasts in the Gulf of America as Part of the Harmful Algal Blooms Observing System from 1953-08-19 to 2024-03-25},
+  url = {https://www.ncei.noaa.gov/archive/accession/0120767},
+  author = {NOAA National Centers for Environmental Information},
+  year = {2014}
+}
+
+@article{hu2022treatment,
+  title        = {Treatment of the red tide dinoflagellate Karenia brevis and brevetoxins using USEPA-registered algaecides},
+  author       = {Hu, Jing and Berthold, David E. and Wang, Yi and Xiao, Xi and Laughinghouse IV, H. Dail},
+  journal      = {Harmful Algae},
+  volume       = {120},
+  pages        = {102347},
+  year         = {2022},
+  publisher    = {Elsevier}
+}
+
+
